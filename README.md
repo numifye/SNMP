@@ -1,7 +1,9 @@
 # SNMP
 Discovers interfaces and monitors traffic in a device
 
+
 SNMP ROGRAMMING PROJECT
+
 FUNCTIONAL SPECIFICATION
 
 This program is intended to discover device interfaces, discover what devices those interfaces are connected to at an IP level (neighboring devices), and monitor the traffic on the device’s interfaces. The user needs to supply the time intervals between samples, number of samples to take, IP address of the agent, and the community. It is easier to read than the default output one would get using the terminal.
