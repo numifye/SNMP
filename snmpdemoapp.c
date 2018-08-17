@@ -1,7 +1,4 @@
-/*
-NAME: NAOMI CAMPBELL
-DATE: 11/13/17
-*/
+//NAME: NAOMI CAMPBELL
 
 #include <net-snmp/net-snmp-config.h>
 #include <net-snmp/net-snmp-includes.h>
